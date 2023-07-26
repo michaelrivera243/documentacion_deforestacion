@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocudocu=self.webpackChunkdocudocu||[]).push([[364],{7048:o=>{o.exports=JSON.parse('{"label":"hola","permalink":"/documentacion_deforestacion/blog/tags/hola","allTagsPath":"/documentacion_deforestacion/blog/tags","count":1}')}}]);
