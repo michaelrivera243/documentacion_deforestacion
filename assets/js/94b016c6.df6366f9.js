@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocudocu=self.webpackChunkdocudocu||[]).push([[941],{6472:o=>{o.exports=JSON.parse('{"permalink":"/documentacion_deforestacion/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
